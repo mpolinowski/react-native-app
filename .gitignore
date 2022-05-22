@@ -1,5 +1,7 @@
 node_modules/
-.expo/
+.expo
+.expo-shared
+.vscode
 dist/
 npm-debug.*
 *.jks
@@ -9,6 +11,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-
+src/components/bak/*
+src/screens/bak/*
 # macOS
 .DS_Store
