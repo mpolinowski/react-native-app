@@ -18,7 +18,7 @@
 ## Setup
 
 ```bash
-npm install -g expo-cli react-native-cli styled-components axios
+npm install -g expo-cli
 expo init client
 ```
 
@@ -27,6 +27,7 @@ Choose the __blank__ template and run the client:
 
 ```bash
 cd client
+npm install react-native-cli styled-components axios
 npm start
 ```
 
